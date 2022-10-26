@@ -1,0 +1,10 @@
+ul.list {
+    margin-left:1em;
+    font-size:2rem;
+    font-family: sans-serif;
+}
+
+ul.list > li {
+    list-style: none;
+    color:tomato;
+}
